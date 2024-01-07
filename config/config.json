@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "InnoScribe",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "InnoScribe"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": " Elevating Your Conversations with AI!",
+    "copyright": "Copyright | 2024 InnoScribe"
+  },
+
+  "metadata": {
+    "meta_author": "InnoScribe",
+    "meta_image": "",
+    "meta_description": "Elevating Your Conversations with AI!"
+    
+  }
+}
