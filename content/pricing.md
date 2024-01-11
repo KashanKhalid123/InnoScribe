@@ -44,7 +44,7 @@ plans:
 
 call_to_action:
   title: Need a larger plan?
-  content:Take the next step towards smarter communication and a suite of integrated services today!.
+  content: Take the next step towards smarter communication and a suite of integrated services today!.
   image: '/images/cta.svg'
   button:
     enable: true
