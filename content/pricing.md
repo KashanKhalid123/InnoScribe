@@ -5,39 +5,50 @@ draft: false
 plans:
 - title: Basic Plan
   subtitle: Best For Small Individuals
-  price: 500
-  type: month
+  price: 520
+  type: one time
   features:
-    - Tailored Chatbot
-    - Design Freedom
-    - Live Chat Support
+    - FAQ Interaction
+    - Predefined Responses
+    - Limited Customization
+    - No Learning Capability
+    - Basic Analytics
+    - Email Support
+    - Usage Limits
   button:
     label: Get started
     link: "/contact"
 
 - title: Professional Plan
   subtitle: Best For Professionals
-  price: 1000
-  type: month
+  price: 1020
+  type: one time
   recommended: true
   features:
-    - Industry-Specific Solutions
-    - Event Management
-    - Personalized Experience
-    - Customer Feedback Analysis
-    - Integrated Payment Support
+    - Advanced AI Capabilities
+    - Customization and Branding
+    - Continuous Learning
+    - Comprehensive Analytics
+    - Multi-Platform Integration
+    - Priority Support
+    - Unlimited Usage
+    - Multilingual Support
   button:
     label: Get started
     link: "/contact"
 
 - title: Business Plan
   subtitle: Best For Large Individuals
-  price: 800
-  type: month
+  price: 780
+  type: one time
   features:
-    - Advanced Customization
-    - E-commerce Integration
-    - Appointment Scheduling
+    - Interactive FAQ
+    - Customization
+    - Moderate Learning Capability
+    - Analytics and Reporting
+    - Expanded Integrations
+    - Priority Support
+    - Usage Limits
   button:
     label: Get started
     link: "/contact"
