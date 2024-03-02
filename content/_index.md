@@ -2,7 +2,7 @@
 banner:
   title: Welcome to InnoScribe – Elevating Your Conversations with AI!
 
-  content:We don't just develop chatbots, we craft intelligent conversational AI solutions.  Our Conversational AI as a Service (CAaaS) plans empower businesses like yours to revolutionize customer interactions.  Whether you run a bustling restaurant, a service-oriented company, or any website seeking to connect with customers on a deeper level, InnoScribe offers a customizable CAaaS plan to fit your unique needs and budget.
+content: We don't just develop chatbots, we craft intelligent conversational AI solutions.  Our Conversational AI as a Service (CAaaS) plans empower businesses like yours to revolutionize customer interactions.  Whether you run a bustling restaurant, a service-oriented company, or any website seeking to connect with customers on a deeper level, InnoScribe offers a customizable CAaaS plan to fit your unique needs and budget.
 
 
 
