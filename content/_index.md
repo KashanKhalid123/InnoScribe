@@ -2,7 +2,9 @@
 banner:
   title: Welcome to InnoScribe – Elevating Your Conversations with AI!
 
-  content: InnoScribe takes pride in leading the way with AI-driven chat solutions. Whether you run a restaurant, a service-oriented business, or any company with a website, InnoScribe brings you closer to your customers through intelligent chatbots.
+  content:We don't just develop chatbots, we craft intelligent conversational AI solutions.  Our Conversational AI as a Service (CAaaS) plans empower businesses like yours to revolutionize customer interactions.  Whether you run a bustling restaurant, a service-oriented company, or any website seeking to connect with customers on a deeper level, InnoScribe offers a customizable CAaaS plan to fit your unique needs and budget.
+
+
 
   image: /images/banner-art.svg
   button:
@@ -13,25 +15,27 @@ banner:
 feature: 
   title: Our Services
   features:
-  - name: "Tailored Chatbots"
+  - name: "Intelligent Chatbot Development"
     icon: "/images/code.svg"
-    content: "Choose a chatbot that perfectly fits your business's personality and needs. From friendly to professional, customize the chat to reflect your unique brand.
+    content: Build custom chatbots tailored to your specific industry and goals. Whether you need a restaurant bot to take orders or a service-oriented bot to answer FAQs and troubleshoot issues, our team crafts chatbots that deliver exceptional customer experiences.
 "
-  - name: "Design Freedom"
+  - name: "Advanced GPT Training"
     icon: "/images/oop.svg"
-    content: " Shape the chatbox the way you want. Pick colors, fonts, and layouts to harmonize with your existing website and strengthen your brand identity.
+    content: " We leverage cutting-edge Generative Pre-trained Transformer (GPT) technology to train your chatbot on your unique data. This ensures your bot understands your brand voice, product offerings, and the specific needs of your customers.
 "
-  - name: "Appointment Scheduling"
+  - name: "Multilingual Chatbot Support"
     icon: "/images/user-clock.svg"
-    content: "Incorporate calendar integration for managing appointments, bookings, and reservations.
+    content: " Reach a global audience!  Our team can develop chatbots that can converse with customers in multiple languages. This eliminates language barriers and allows you to provide exceptional customer service to a broader market..
 "
-  - name: "E-commerce Integration"
+  - name: "Omnichannel Chatbot Deployment"
     icon: "/images/love.svg"
-    content: "Assist online businesses with product searches, order status, and payment inquiries.
+    content: "Integrate your chatbot seamlessly across various platforms, including your website, messaging apps (e.g., WhatsApp, Facebook Messenger), and social media. This allows customers to interact with your bot wherever they feel most comfortable.
+
+
 "
-  - name: "Integrated Email Support"
+  - name: "Proactive Customer Engagement"
     icon: "/images/speedometer.svg"
-    content: "Develop a chatbot that can support customers with email-related questions, such as password resets or assistance with configuration.
+    content: " Move beyond reactive customer service.  Our AI can analyze user behavior and proactively offer support or recommendations before a customer even asks. Imagine a chatbot that suggests a size chart when a customer views a clothing item, or recommends a related service based on their browsing history.
 "
   - name: "Security and Privacy"
     icon: "/images/cloud.svg"
